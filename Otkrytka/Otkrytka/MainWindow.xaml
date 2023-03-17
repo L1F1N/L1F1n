@@ -1,0 +1,17 @@
+﻿<Window x:Class="Otkrytka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Otkrytka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:UserControl1 Header="Поздравление 1" Description="Сообщение с поздравлением 1" ColoredSource="/616aee8c30f4cb6b209c26ec6a8e3f4c.png"></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 2" Description="Сообщение с поздравлением 2" ColoredSource="/png-clipart-south-park-stan-marsh-illustration-south-park-stan-at-the-movies-cartoons-thumbnail.png" ></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 3" Description="Сообщение с поздравлением 3" ColoredSource="/png-transparent-kenny-mccormick-kyle-broflovski-eric-cartman-stan-marsh-kenny-television-face-orange.png"></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 4" Description="Сообщение с поздравлением 4" ColoredSource="/png-transparent-eric-cartman-kyle-broflovski-stan-marsh-butters-stotch-mr-garrison-eric-cartman-hitler-television-child-cartoon.png"></local:UserControl1>
+        </StackPanel>
+    </Grid>
+</Window>
