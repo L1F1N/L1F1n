@@ -1,0 +1,11 @@
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\bin\Debug\BMIKALKUL.exe.config
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\bin\Debug\BMIKALKUL.exe
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\bin\Debug\BMIKALKUL.pdb
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.csproj.AssemblyReference.cache
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.csproj.SuggestedBindingRedirects.cache
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.Form1.resources
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.Properties.Resources.resources
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.csproj.GenerateResource.cache
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.exe
+C:\Govno po mdk2\BMIKALKUL\BMIKALKUL\obj\Debug\BMIKALKUL.pdb
